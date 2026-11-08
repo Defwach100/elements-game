@@ -1,0 +1,19 @@
+{
+  "name": "ELEMENTS: The Art of Bending",
+  "short_name": "ELEMENTS",
+  "description": "A third-person elemental bending adventure prototype.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#101a22",
+  "theme_color": "#101a22",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
